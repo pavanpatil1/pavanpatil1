@@ -2,10 +2,6 @@
 
 <br/>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandavshyam&show_icons=true&locale=en&count_private=true" alt="pavanpatil1" /></p>
-
-<br/>
-
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanpatil1&show_icons=true&locale=en&count_private=true" alt="pavanpatil1" /></p>
 
 <br/>
